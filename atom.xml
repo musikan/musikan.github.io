@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Musik한 자의 Music Log</title>
+  
+  <subtitle>Musikan</subtitle>
+  <link href="https://musikan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://musikan.github.io/"/>
+  <updated>2021-11-12T08:03:59.979Z</updated>
+  <id>https://musikan.github.io/</id>
+  
+  <author>
+    <name>musikan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>새 블로그로 이전</title>
+    <link href="https://musikan.github.io/2021/11/12/%EC%83%88-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EC%9D%B4%EC%A0%84/"/>
+    <id>https://musikan.github.io/2021/11/12/%EC%83%88-%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A1%9C-%EC%9D%B4%EC%A0%84/</id>
+    <published>2021-11-12T05:30:47.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>지난 2021년 상반기 운영하던 Shou*** 이라는 사이트는 개인적인 사정으로 폐쇄하였다.</p><p>그리고, 학원을 잠시 쉬고 Win11을 위한 새 PC를 마련하였다.</p><p>이제 다시 학원을 다닐 때가 되었다.</p><p>그리고, Shou*** 사이트에 썼던 글들이 아까워서 새 보금자리를 마련하였다.</p><h2 id="그동안-음악-작업은"><a href="#그동안-음악-작업은" class="headerlink" title="그동안 음악 작업은?"></a>그동안 음악 작업은?</h2><p>사실 여러가지 일이 있어서 하지 못했다.</p><p>7월에는 사실 하려고 했으나, 현 거주지의 인프라를 대대적으로 변경하는 작업을 했다.</p><p>8~9월에는 망분리 작업하느라 못했고,</p><p>10월에는 PC를 드디어 구매했다.</p><p>10월 말에 코로나 2차 백신 맞고 통풍발작이 재발하였고, 이명과 어지럼증으로 인해 귀가 맛이 가버렸었다.</p><p>통풍은 약을 처방받아 먹음으로써 해결했으나, 이후 모든 소리가 반음 낮게 들리는 증상이 생겨 일주일을 누워만 있었다.</p><p>일주일 뒤, 반음 낮게 들리는 증상은 90% 정도 회복되었고, 듣던 음악이 다시 익숙하게 돌아와서 좋았지만 약간 부족했었다.</p><p>그리고 현재는 모두 회복된 것 같다.</p><p>근데 시발 큐베이스를 하도 안 켜서그런지 이전과 달리 손에 잡히지 않는다.</p><p>프로젝트만 만들어 놓고 아무것도 안했다.</p><p>다시 학원 다니게 되면 돌아올지도?</p><h2 id="작성일이-11월-이전인-글은-Shou-에서-일부-가져왔다-왜-다-가져오지-않았을까"><a href="#작성일이-11월-이전인-글은-Shou-에서-일부-가져왔다-왜-다-가져오지-않았을까" class="headerlink" title="작성일이 11월 이전인 글은 Shou***에서 일부 가져왔다. 왜 다 가져오지 않았을까?"></a>작성일이 11월 이전인 글은 Shou***에서 일부 가져왔다. 왜 다 가져오지 않았을까?</h2><p>작곡 블로그를 위해 관련 글들만 가져왔다.</p><p>여기서 새로 시작할거니까.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;지난 2021년 상반기 운영하던 Shou*** 이라는 사이트는 개인적인 사정으로 폐쇄하였다.&lt;/p&gt;
+&lt;p&gt;그리고, 학원을 잠시 쉬고 Win11을 위한 새 PC를 마련하였다.&lt;/p&gt;
+&lt;p&gt;이제 다시 학원을 다닐 때가 되었다.&lt;/p&gt;
+&lt;p&gt;그리고, </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Steinberg Download Assistant에 드디어 Install All 버튼이 생겨버렸다.</title>
+    <link href="https://musikan.github.io/2021/06/25/Steinberg-Download-Assistant%EC%97%90-%EB%93%9C%EB%94%94%EC%96%B4-Install-All-%EB%B2%84%ED%8A%BC%EC%9D%B4-%EC%83%9D%EA%B2%A8%EB%B2%84%EB%A0%B8%EB%8B%A4/"/>
+    <id>https://musikan.github.io/2021/06/25/Steinberg-Download-Assistant%EC%97%90-%EB%93%9C%EB%94%94%EC%96%B4-Install-All-%EB%B2%84%ED%8A%BC%EC%9D%B4-%EC%83%9D%EA%B2%A8%EB%B2%84%EB%A0%B8%EB%8B%A4/</id>
+    <published>2021-06-25T14:34:47.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/files/2021/jun/25/731dff62745c8928951f27d6d194552a.jpg" alt="install_all.jpg"></p><p>몇 달 전까지만 해도 없었다.</p><p>최근에 이 버튼이 생긴 것 같다.</p><p>분명 얘네들도 이것 때문에 항의 존나게 받아서 만든것일 거다 ㅋㅋ</p><p>근데 맥용에는 아직 없었던 것 같은데…</p><p>역시 윈도우 퍼스트 스벅(스타벅스 아님ㅎ)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/files/2021/jun/25/731dff62745c8928951f27d6d194552a.jpg&quot; alt=&quot;install_all.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;몇 달 전까지만 해도 없었다.&lt;/p&gt;
+&lt;p&gt;최근에 이 버튼이 생긴 것 같</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>macOS에서 Cubase 사용 후기</title>
+    <link href="https://musikan.github.io/2021/06/25/macOS%EC%97%90%EC%84%9C-Cubase-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/"/>
+    <id>https://musikan.github.io/2021/06/25/macOS%EC%97%90%EC%84%9C-Cubase-%EC%82%AC%EC%9A%A9-%ED%9B%84%EA%B8%B0/</id>
+    <published>2021-06-25T03:17:14.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>부득이한 사정으로 맥을 쓸 수밖에 없었다.</p><p>그래서 macOS에서 Cubase를 사용해 봤다.</p><p>먼저 설치 과정은 딱히 다른 점이 없었다.</p><p>처음 구동 속도가 Windows 버전보다 오래걸렸다.</p><p>cpr 파일은 Windows 버전에서 작업한 것과 완벽히 호환된다.</p><p>단지 일부 소스 파일은 경로 체계가 다르기 때문에 경로를 찾아서 다시 지정해 줘야 한다.</p><p>세럼을 작동시키는데 갑자기 소리가 들렸다 안 들렸다 한다.</p><p>세럼의 버그인지 Cubase 버그인지 모르겠다.</p><p>G H 로 확대/축소 시 Windows보다 덜 부드럽다.</p><p>macOS 버전에서는 ASIO가 아닌 CoreAudio를 통해 작동하는 듯 했다. 아님 말고.</p><p>오디오 MIDI 설정에서 통합 기기나 다중 출력 기기를 생성하면 Cubase 오디오 설정에서도 그것이 목록에 나온다.</p><p>그러나 오디오 인터페이스를 직접 선택하는 것보다 약간 불안정하게 작동한다.</p><p>퀀타이즈 할 때 윈도우와 약간 다르게 퀀타이즈 되는 것 같다.</p><p>그외 외관은 Windows 버전과 다른 것이 거의 없다.</p><p>메시지 창이나 프로젝트 로드할 때 창이 macOS 기본 인터페이스이다. 이건 좋은 듯.</p><p>참고로 인텔임.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;부득이한 사정으로 맥을 쓸 수밖에 없었다.&lt;/p&gt;
+&lt;p&gt;그래서 macOS에서 Cubase를 사용해 봤다.&lt;/p&gt;
+&lt;p&gt;먼저 설치 과정은 딱히 다른 점이 없었다.&lt;/p&gt;
+&lt;p&gt;처음 구동 속도가 Windows 버전보다 오래걸렸다.&lt;/p&gt;
+&lt;p&gt;cpr</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>멜로디가 생각 안날 땐</title>
+    <link href="https://musikan.github.io/2021/06/11/%EB%A9%9C%EB%A1%9C%EB%94%94%EA%B0%80-%EC%83%9D%EA%B0%81-%EC%95%88%EB%82%A0-%EB%95%90/"/>
+    <id>https://musikan.github.io/2021/06/11/%EB%A9%9C%EB%A1%9C%EB%94%94%EA%B0%80-%EC%83%9D%EA%B0%81-%EC%95%88%EB%82%A0-%EB%95%90/</id>
+    <published>2021-06-11T17:23:45.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>잠시 프로젝트를 닫고 쉬었다가…</p><p>갑자기! 딱 생각날 때가 생긴다?! 그럼 바로바로 프로젝트를 열고~</p><p>입력 ㄱㄱ 하는 순간!!! 어라? 또 까먹었네?</p><p>하다가 대충 입력하는데… 음 뭔가 아닌 것 같아 하고 일단 프로젝트 저장</p><p>몇 시간 뒤 다시 열어봐서 재생해보면 오… 이 부분 괜찮네~</p><p>하다가 몇 번 듣다 보니 뇌이징이 되어버려서 또 안좋아져버리네?</p><p>수정 조금 하다가 에라 모르겠다 내일 하자~ 하고 저장</p><p>다음 날 프로젝트를 열고 또 들어보니 ㅅㅂ 좋네?</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;잠시 프로젝트를 닫고 쉬었다가…&lt;/p&gt;
+&lt;p&gt;갑자기! 딱 생각날 때가 생긴다?! 그럼 바로바로 프로젝트를 열고~&lt;/p&gt;
+&lt;p&gt;입력 ㄱㄱ 하는 순간!!! 어라? 또 까먹었네?&lt;/p&gt;
+&lt;p&gt;하다가 대충 입력하는데… 음 뭔가 아닌 것 같아 하고 일단 </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>음악 프로젝트를 처음 만들 때 가장 힘든 것</title>
+    <link href="https://musikan.github.io/2021/06/06/%EC%9D%8C%EC%95%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EA%B0%80%EC%9E%A5-%ED%9E%98%EB%93%A0-%EA%B2%83/"/>
+    <id>https://musikan.github.io/2021/06/06/%EC%9D%8C%EC%95%85-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%93%A4-%EB%95%8C-%EA%B0%80%EC%9E%A5-%ED%9E%98%EB%93%A0-%EA%B2%83/</id>
+    <published>2021-06-06T11:32:52.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>음악 프로젝트를 처음 만들 때 가장 힘든 것이, 주제와 장르는 정했는데 머리 속에서 생각하는 사운드(음색)를 가상악기로 표현하는 것이 어려운 점이다.</p><p>그렇기 때문에, 원하는 분위기를 내지 못해서 시작도 못해보고 아예 포기한 경우도 종종 있었고, 포기하지 않더라도 레퍼런스를 정하고 프로토타입을 일단 만들면, 항상 레퍼런스의 분위기와는 동떨어진 분위기로 변해 있었다.</p><p>그리고, 두 번째로 힘든 것은 Splice 등에서 사운드 샘플을 검색하는 것이다.</p><p>이것도 마찬가지로 머리 속에는 이런 사운드를 넣고 싶다 라고 생각하는데, 어떤 용어로 검색해야 할지 몰라서 이전에 만들었던 프로젝트도 그런 이펙트 사운드를 대충 아는 것들로만 3~4개밖에 넣지 않았었다.</p><p>막 이것저것 넣고 싶은 욕망은 있는데 마음대로 할 수가 없으니 답답하다.</p><p>내가 아직 악기에 대한 이해가 부족해서 그런 것 같기도 하다.</p><p>앞으로 몇 년은 고생해야 겨우 프로 문턱까지 갈 수 있으려나…</p><p>프로의 길은 참 멀고 험난하다.</p><p>그래도 포기는 안 할거다. 언젠가는 나도 실력자가 되어 있겠지…</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;음악 프로젝트를 처음 만들 때 가장 힘든 것이, 주제와 장르는 정했는데 머리 속에서 생각하는 사운드(음색)를 가상악기로 표현하는 것이 어려운 점이다.&lt;/p&gt;
+&lt;p&gt;그렇기 때문에, 원하는 분위기를 내지 못해서 시작도 못해보고 아예 포기한 경우도 종</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>그간 작곡 공부 근황</title>
+    <link href="https://musikan.github.io/2021/05/21/%EA%B7%B8%EA%B0%84-%EC%9E%91%EA%B3%A1-%EA%B3%B5%EB%B6%80-%EA%B7%BC%ED%99%A9/"/>
+    <id>https://musikan.github.io/2021/05/21/%EA%B7%B8%EA%B0%84-%EC%9E%91%EA%B3%A1-%EA%B3%B5%EB%B6%80-%EA%B7%BC%ED%99%A9/</id>
+    <published>2021-05-21T10:45:37.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/files/2021/may/21/21d472de9aee84e48ce8248af294f953.jpg" alt="음악작업물_1.png.jpg"></p><p>학원을 다니면서 곡 하나를 만들기까지 4개월이나 걸렸다.</p><p>장르는 팝 종류이고 흔한 코드로 만들었다.</p><p>사운드 만드는 것이 조금 어려웠다.</p><p>멜로디는 적당히 입력했고, 가사는 크게 정한 것이 없어서 일부 단어와 그냥 흥얼거리는 걸로 녹음했다.</p><p>역시 편곡보다 작곡/작사가 수익 배분이 더 많은 이유를 알 것 같다. 좋은 멜로디와 가사 쓰는 것도 쉽지 않더라.</p><p>트랙을 더 늘리고 싶었지만 아직은 무리다.</p><p>음원 공개는 믹싱이 끝난 후 생각해봐야겠는데… 아무래도 강사님의 손맛이 약간 담긴거라 공개는 좀 그렇다.</p><p>나~~중에 다른 곡도 만들 때 강사님의 손맛이 0에 수렴한 곡만 공개해야 될듯.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/files/2021/may/21/21d472de9aee84e48ce8248af294f953.jpg&quot; alt=&quot;음악작업물_1.png.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;학원을 다니면서 곡 하나를 만들기까지 4개월이나 걸렸다.&lt;/p&gt;
+&lt;p&gt;장</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[M] 2021년 3월 2주차 간단요약</title>
+    <link href="https://musikan.github.io/2021/03/13/2021%EB%85%84-3%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/"/>
+    <id>https://musikan.github.io/2021/03/13/2021%EB%85%84-3%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/</id>
+    <published>2021-03-13T22:03:17.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>엄청 늦었다.</p><p>그렇다고 소홀히 하려고 했던 건 아니고, 몸이 조금 아팠다.</p><hr><h2 id="시작"><a href="#시작" class="headerlink" title="시작"></a>시작</h2><ul><li>학원 방문</li><li>보이싱이 괜찮다고 하심. 그러나 ‘하모닉 리듬’이 있으면 더 좋을 것이라고 하심.</li><li>하모닉 리듬을 넣어서 약간 더 풍부하게(?) 만듦.</li><li>베이스에 고스트 노트를 넣어서 약간 Groove 있게 만들어 줄 수 있다고 하심.</li><li>아주 짧은 노트를 넣는 건데, 이게 잘 안 들릴 수도 있지만 없으면 허전하다고 하심.</li><li>이번 과제는 위의 방법을 활용해서 수정하는 것과, 본격적으로 곡을 만들기 위해 기획하는 것임.</li><li>대중음악에서 작곡은 딱 영감이 떠올라서 만드는 것이 아닌 기획을 통해 만들어진다고 하심.</li><li>따라서 장르, 타겟(어떤 아티스트에게 줄 건지), 주제 등을 미리 정해놓고 만든다고 하심.</li><li>그 기획을 하고, 짧게 Chorus 부분을 만드는 것이 두번째 과제.</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;엄청 늦었다.&lt;/p&gt;
+&lt;p&gt;그렇다고 소홀히 하려고 했던 건 아니고, 몸이 조금 아팠다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;시작&quot;&gt;&lt;a href=&quot;#시작&quot; class=&quot;headerlink&quot; title=&quot;시작&quot;&gt;&lt;/a&gt;시작&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;학원 </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[M] 2021년 3월 1주차 간단요약</title>
+    <link href="https://musikan.github.io/2021/03/04/2021%EB%85%84-3%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/"/>
+    <id>https://musikan.github.io/2021/03/04/2021%EB%85%84-3%EC%9B%94-1%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/</id>
+    <published>2021-03-04T20:24:51.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>이번부터는 요일별로 쓰지 않고 straight하게 쓸 거다.<br>요일별로 쓰려니 정말 쓸 게 없다;;</p><hr><h2 id="학원"><a href="#학원" class="headerlink" title="학원"></a>학원</h2><ul><li>월요일 학원 방문</li><li>과제 한 것 확인함</li><li>그러나 문제가 있었음. 가상악기 세팅값을 불러오지 못하는 경우가 생김. (이건 나중에 알았는데 같은 가상악기라도 버전에 따라 안되는 경우가 있으므로 백업 시 freeze 시켜줘야 한다는 사실을 알게 됨)</li><li>계속 보는데 rhodes의 보이싱이 이상하다는 것이 확인됨.</li><li>집에서 작업했을 때는 눈치채지 못한 것들도 발견됨.</li><li>뭔가 이건 이렇게 놓아야 한다 그런 것들을 선생님이 설명을 하는데 알아듣기가 어려움.</li><li>사실 본인의 음악 지식 레벨은 3렙 정도이니 그런 것 같음을 느낌.</li><li>처음 치고는 잘 하는 편인데 음악 이론을 잘 몰라하는 것 같다고 함.</li><li>그리고 건반을 자기가 만든 곡의 코드 등을 칠 수 있을 정도로만 연습하는 것도 중요하다고 이야기하심.</li><li>간단히 루프 갖고 짜집기 하는 비트메이킹 등은 음악 이론이 크게 필요하지 않지만 나중에 그런 작업에서 더 나아간다면 한계를 느끼게 된다고 하심.</li><li>작곡(편곡 포함)은 음악 이론이 필수라고 하고, 그래서 공부하는 방법밖에 없다고 하심.</li><li>결국 포기해야 하나 싶어 좌절하였으나, 이제 막 시작하는 건데 그럴 수도 있다며 벌써부터 포기하지는 말라고 하심.</li><li>그리고 마지막으로, 음악은 계속해서 연구해야 하는 거라고 하심.</li><li>이번 주는 잘못 된 것 한 번 더 검토하면서 고쳐보라고 하심.</li></ul><h2 id="왜-그런지-알고-보니…"><a href="#왜-그런지-알고-보니…" class="headerlink" title="왜 그런지 알고 보니…"></a>왜 그런지 알고 보니…</h2><p>이미 코드에 맞게 변경이 된 상태에서 Match 어쩌고 하는 것을 한 번 더 눌러서 그런 것이었다(…)</p><p>이것은 내 실수였다. 하지만 다시 바로잡을 수는 있을 것 같았다.</p><p>코드 보이싱 계산하면서 작업을 시도 해봤다.</p><p>어라? 괜찮게 된 것 같네? 그러나 내 음악 지식 레벨은 3렙 정도이니 허접할 수도 있다.</p><p>다음 주 가져가면 제대로 한 건지 알게 되겠지.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;이번부터는 요일별로 쓰지 않고 straight하게 쓸 거다.&lt;br&gt;요일별로 쓰려니 정말 쓸 게 없다;;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;학원&quot;&gt;&lt;a href=&quot;#학원&quot; class=&quot;headerlink&quot; title=&quot;학원&quot;&gt;&lt;/a&gt;학원&lt;/h2&gt;&lt;ul</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[M] 2021년 2월 4주차 간단요약</title>
+    <link href="https://musikan.github.io/2021/02/26/2021%EB%85%84-2%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/"/>
+    <id>https://musikan.github.io/2021/02/26/2021%EB%85%84-2%EC%9B%94-4%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/</id>
+    <published>2021-02-26T03:37:24.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="2월-22일-월요일"><a href="#2월-22일-월요일" class="headerlink" title="2월 22일 월요일"></a>2월 22일 월요일</h3><ul><li>학원 방문</li><li>세럼으로 베이스 제작</li><li>베이스는 Attack을 0으로 하고 옥타브를 2단계 낮추고 필터를 Low Pass</li><li>코드 트랙에 코드를 놓고 코드 밑에 미디 아이템을 놓은 다음 Match 시키면 코드에 맞게 변형됨.</li><li>리드는 Attack을 조금 길게 하고 Decay를 약간 길게, 포타멘토를 20정도로 놓고 필터를 High Pass</li><li>10개씩 만드는 것이 이번 주 과제</li></ul><h3 id="2월-23일-화요일"><a href="#2월-23일-화요일" class="headerlink" title="2월 23일 화요일"></a>2월 23일 화요일</h3><p>2개 만듦</p><h3 id="2월-24일-수요일"><a href="#2월-24일-수요일" class="headerlink" title="2월 24일 수요일"></a>2월 24일 수요일</h3><p>2개 만듦</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;2월-22일-월요일&quot;&gt;&lt;a href=&quot;#2월-22일-월요일&quot; class=&quot;headerlink&quot; title=&quot;2월 22일 월요일&quot;&gt;&lt;/a&gt;2월 22일 월요일&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;학원 방문&lt;/li&gt;
+&lt;li&gt;세럼으로 베이스 제작&lt;/li&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title> [M] 2021년 2월 3주차 간단요약</title>
+    <link href="https://musikan.github.io/2021/02/18/2021%EB%85%84-2%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/"/>
+    <id>https://musikan.github.io/2021/02/18/2021%EB%85%84-2%EC%9B%94-3%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/</id>
+    <published>2021-02-18T13:25:13.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>늦었다. 눚고싶어서 늦은 게 아니다. 쓸려고 마음먹었는데 안 쓴거다.</p><hr><h3 id="2월-15일-월요일"><a href="#2월-15일-월요일" class="headerlink" title="2월 15일 월요일"></a>2월 15일 월요일</h3><ul><li>역시 학원 방문</li><li>작업한 것 확인</li><li>처음 치고 잘 했다고 칭찬하심.</li><li>하이햇 벨로시티가 전체적으로 크다고 함.<ul><li>모니터링을 제대로 안 하고 작업한 듯.</li><li>본인은 아파트 거주중이라 스피커를 크게 틀 수 없음. 그래서 제대로 확인하지 못한 것 같다.</li></ul></li><li>스네어가 약간 뒤쳐지게(?) 들려야 한다고 함</li><li>리듬은 끝났고 신디사이저 파트로 넘어감.</li><li>신디사이저는 크게 오실레이터, 필터, 엔벨로프, LFO가 있는데, 오실레이터 개수는 신디사이저마다 다름.</li><li>오실 파형에 따른 소리 특징 확인.</li><li>사인파를 기반으로 기본적인 베이스 사운드 제작.</li><li>필터를 걸어줘서 특정 주파수 대역을 깎아주고 다듬음.</li><li>엔벨로프로 사운드가 들려지는 느낌을 바꿔줌.</li><li>파형을 변조시키는 방법 확인.</li><li>변조 방법에 대한 용어를 이해하는 것과 만져보면서 사운드를 들어보는 것이 요번 주 과제임.</li><li>집으로</li><li>이전에 세럼 강좌를 보면서 신디사이저 작동방식을 이해했었음.</li><li>그러나 한번 더 복습하고 정리하는 시간을 가짐.</li><li>그리고 변조 방법에 대해 이해하고 들어봄.</li></ul><h3 id="2월-16일-화요일"><a href="#2월-16일-화요일" class="headerlink" title="2월 16일 화요일"></a>2월 16일 화요일</h3><p>의자 다리가 두개 부러졌네</p><p>작업을 못함.</p><h3 id="2월-17일-수요일"><a href="#2월-17일-수요일" class="headerlink" title="2월 17일 수요일"></a>2월 17일 수요일</h3><p>망치와 의자 다리 주문함.</p><h3 id="2월-19일-금요일"><a href="#2월-19일-금요일" class="headerlink" title="2월 19일 금요일"></a>2월 19일 금요일</h3><p>망치와 의자 다리가 왔다.</p><p>기존 다리를 분리하고 교체했다.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;늦었다. 눚고싶어서 늦은 게 아니다. 쓸려고 마음먹었는데 안 쓴거다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;2월-15일-월요일&quot;&gt;&lt;a href=&quot;#2월-15일-월요일&quot; class=&quot;headerlink&quot; title=&quot;2월 15일 월요일&quot;&gt;&lt;/a&gt;2월 15</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>[M] 2021년 2월 2주차 간단요약</title>
+    <link href="https://musikan.github.io/2021/02/09/2021%EB%85%84-2%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/"/>
+    <id>https://musikan.github.io/2021/02/09/2021%EB%85%84-2%EC%9B%94-2%EC%A3%BC%EC%B0%A8-%EA%B0%84%EB%8B%A8%EC%9A%94%EC%95%BD/</id>
+    <published>2021-02-09T20:20:44.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>오늘부터 매 주마다 간단요약을 적을 것이다.</p><p>먼저, f/musicMaking에 쓰는 글은 지금 배우고 있는 미디의 공부 과정 등을 정리하기 위한 것이고, 추후 f/programming에도 개발 관련 TIL 식으로 작성할 예정이다.</p><p>Shoutel은 안타깝게도, 아무도 없는 사이트이기 때문에 글이 전혀 올라오지 않는다. 그래서 최후의(?) 수단이자 유일한 수단인 게시물 늘리기를 실천하기 위한 동기부여가 될 것이다.</p><p>(이렇게 쓰니까 뭔가 의식의 흐름대로 된 것 같은 느낌이…)</p><hr><h3 id="2월-8일-월요일"><a href="#2월-8일-월요일" class="headerlink" title="2월 8일 월요일"></a>2월 8일 월요일</h3><ul><li>학원 방문</li><li>작업한 숙제를 확인하여 틀린(이라 쓰고 허접한 이라 읽는다) 부분을 알려줌</li><li>Velocity를 알맞게 설정하는 것을 보여줌</li><li>힙합/R&amp;B와 락의 리듬 연주 스타일에 대해 알려줌</li><li>swing 리듬에 대한 공부<ul><li>R&amp;B와 락 음악의 특징에 대한 이해</li><li>대중음악에서 swing 리듬을 느껴보고, cubase 상에서 swing을 설정하여 swing 이 어떤 것인지 알게 됨</li></ul></li><li>이번 주 과제는 swing이 첨가된 곡의 리듬 카피와 R&amp;B와 락을 각각 5개씩 정해서 리듬을 느껴보기(?)</li><li>공부(수정작업)한 프로젝트 파일을 usb에 저장하고 귀가</li><li>앞에 수정작업이 덜 된 부분을 약간 수정을 가함</li><li>(과제) 특정 곡의 리듬 부분을 카피하기 시작함</li></ul><h3 id="2월-9일-화요일"><a href="#2월-9일-화요일" class="headerlink" title="2월 9일 화요일"></a>2월 9일 화요일</h3><ul><li>카피 작업 1절까지 완료</li></ul><h3 id="2월-10일-수요일"><a href="#2월-10일-수요일" class="headerlink" title="2월 10일 수요일"></a>2월 10일 수요일</h3><p>groove에 대한 이해가 부족한 것 같아 적음. swing 관련 참고가 될 만함</p><ul><li><a href="https://www.cuonet.com/bbs/board.php?bo_table=community2&amp;wr_id=8096046">https://www.cuonet.com/bbs/board.php?bo_table=community2&amp;wr_id=8096046</a></li><li><a href="https://hiphopplaya.com/g2/bbs/board.php?bo_table=hiphoptalk&amp;wr_id=500718">https://hiphopplaya.com/g2/bbs/board.php?bo_table=hiphoptalk&amp;wr_id=500718</a></li></ul><p>대충 참고하고 가자</p><ul><li><a href="https://www.thejazzbassist.com/?p=223">https://www.thejazzbassist.com/?p=223</a></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;오늘부터 매 주마다 간단요약을 적을 것이다.&lt;/p&gt;
+&lt;p&gt;먼저, f/musicMaking에 쓰는 글은 지금 배우고 있는 미디의 공부 과정 등을 정리하기 위한 것이고, 추후 f/programming에도 개발 관련 TIL 식으로 작성할 예정이다.&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cubase Pro 11 개봉기 &amp; 설치기</title>
+    <link href="https://musikan.github.io/2021/01/22/Cubase-Pro-11-%EA%B0%9C%EB%B4%89%EA%B8%B0-%EC%84%A4%EC%B9%98%EA%B8%B0/"/>
+    <id>https://musikan.github.io/2021/01/22/Cubase-Pro-11-%EA%B0%9C%EB%B4%89%EA%B8%B0-%EC%84%A4%EC%B9%98%EA%B8%B0/</id>
+    <published>2021-01-22T13:35:10.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/files/2021/jan/22/b5e30cd0929cae405a4c6e5c4ef9298f.jpg" alt="b5e30cd0929cae405a4c6e5c4ef9298f.jpg"></p><p>Cubase 11 Education 박스 전면이다.</p><p>겉에 있는 비닐을 뜯고 열어보자.</p><p><img src="/files/2021/jan/22/18fec2b93b4499ac2bf568e3a4965d0c.jpg" alt="18fec2b93b4499ac2bf568e3a4965d0c.jpg"></p><p>LICENSE REDEMPTION CARD가 있다.</p><p>액세스 코드가 적혀있다. 버x링으로 가리고 찍었다.</p><p><img src="/files/2021/jan/22/ac4cee0da1433d49f2aa7dcbbaad4836.jpg" alt="ac4cee0da1433d49f2aa7dcbbaad4836.jpg"></p><p>검은 바탕에</p><pre class="language-none"><code class="language-none">CREATE.PRODUCE.MIX.REPEAT.</code></pre><p>이라고 적혀있다.</p><p><img src="/files/2021/jan/22/f6cef28bfea08a96ab3f739e0dfffd81.jpg" alt="f6cef28bfea08a96ab3f739e0dfffd81.jpg"></p><p>USB e-licenser 가 있다.</p><p>이게 없으면 x된다.</p><p><img src="/files/2021/jan/22/5d10be759ba23f6bed786879695a3ac9.jpg" alt="5d10be759ba23f6bed786879695a3ac9.jpg"></p><p>이 e-licenser(동글키)는 USB 2.0 포트에 연결해야 한다.</p><p>안그러면 4만원 주고 또 구매해야 할 일이 <strong>생길 수 있다</strong>.</p><p>USB를 잘 꽂으면 빨간 불이 들어온다. 불빛이  밝아졌다 어두워졌다 반복한다.</p><p><img src="/files/2021/jan/22/dced7155de507aff8a9db2c4f98e557d.jpg" alt="dced7155de507aff8a9db2c4f98e557d.jpg"></p><p>CUBASE를 다운로드 하고 나서 설치를 해 준다.</p><p>전부 한꺼번에 설치가 안 되고 하나씩 눌러서 설치해야 한다.</p><p>그리고 C드라이브에만 설치된다. C드라이브 용량이 부족하다면 SSD를 대용량으로 교체하시길 바란다.</p><p><img src="/files/2021/jan/22/f69a46b0952ba6bf0e3f8f3998e7a97f.jpg" alt="f69a46b0952ba6bf0e3f8f3998e7a97f.jpg"></p><p>설치가 끝났으면 아까 박스 열었을 때 제일 위에 있던 종이에 적혀있는 Access Code를 입력해주고 OK를 누른다.</p><p><img src="/files/2021/jan/22/bd3bd2066dfc8ae2af8d6e77332499fd.jpg" alt="bd3bd2066dfc8ae2af8d6e77332499fd.jpg"></p><p>등록하려니 오류가 난다. 동시에 실행되서 충돌한 듯 한 것 같다.</p><p>Windows를 로그아웃-&gt;로그인 해주고 다시 해 보자.</p><p><img src="/files/2021/jan/22/a5f58fc66f2eadd3e947916334b14d69.jpg" alt="a5f58fc66f2eadd3e947916334b14d69.jpg"></p><p>이번엔 된다. Educational 이라고 나온다.</p><p><img src="/files/2021/jan/22/8748e95cb226068a13d4601abb4daec9.jpg" alt="8748e95cb226068a13d4601abb4daec9.jpg"></p><p>등록하고 나서 e-licenser control center를 열어서</p><p>서버와 sync를 해 준다.</p><p><img src="/files/2021/jan/22/d88ee3060b32c8442a94f834404d268c.jpg" alt="d88ee3060b32c8442a94f834404d268c.jpg"></p><p>e-licenser를 내 계정에 등록하면 다 된거다.</p><p><img src="/files/2021/jan/22/eca41cfbf14a20137c246affa24861da.jpg" alt="eca41cfbf14a20137c246affa24861da.jpg"></p><p>Cubase를 실행하고 프로젝트를 열면 메시지가 뜬다. 등록은 다 했으니 Already Registered 누르면 된다.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/files/2021/jan/22/b5e30cd0929cae405a4c6e5c4ef9298f.jpg&quot; alt=&quot;b5e30cd0929cae405a4c6e5c4ef9298f.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Cubase 11 Education</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>아아아아아ㅏㅏㅏ</title>
+    <link href="https://musikan.github.io/2021/01/22/%EC%95%84%EC%95%84%EC%95%84%EC%95%84%EC%95%84%E3%85%8F%E3%85%8F%E3%85%8F/"/>
+    <id>https://musikan.github.io/2021/01/22/%EC%95%84%EC%95%84%EC%95%84%EC%95%84%EC%95%84%E3%85%8F%E3%85%8F%E3%85%8F/</id>
+    <published>2021-01-22T08:54:12.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>이 늙은 나이에 학원을 등록함.</p><p>미디 수업을 들어야 될거 같아서 30만원이라는 거금을 들여 20일에 등록함.</p><p>시설은 괜찮음. 큐베이스가 있어야 되서 45만원에 education 으로 구매함.</p><p>매주 1일 1시간 수업인데 괜찮을까 걱정됨.</p><p>이따 큐베이스 개봉기나 써야겠음 ㅋㅋㅋ</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;이 늙은 나이에 학원을 등록함.&lt;/p&gt;
+&lt;p&gt;미디 수업을 들어야 될거 같아서 30만원이라는 거금을 들여 20일에 등록함.&lt;/p&gt;
+&lt;p&gt;시설은 괜찮음. 큐베이스가 있어야 되서 45만원에 education 으로 구매함.&lt;/p&gt;
+&lt;p&gt;매주 1일 1시간</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>나의 사운드클라우드 계정</title>
+    <link href="https://musikan.github.io/2021/01/12/%EB%82%98%EC%9D%98-%EC%82%AC%EC%9A%B4%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B3%84%EC%A0%95/"/>
+    <id>https://musikan.github.io/2021/01/12/%EB%82%98%EC%9D%98-%EC%82%AC%EC%9A%B4%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B3%84%EC%A0%95/</id>
+    <published>2021-01-12T13:19:13.000Z</published>
+    <updated>2021-11-12T08:03:59.979Z</updated>
+    
+    <content type="html"><![CDATA[<p>나는 2016년 즈음에 사운드클라우드를 가입했었다.</p><p>사실 그 전에도 계정이 있었던 것 같은데 찾지 못했다. (2012년 쯤 애용했었음)</p><p>내가 작곡을 한다는 생각을 안 해서 그냥 만들어만 놓고 오랫동안 방치했었다.</p><p>나는 초등학생 때부터 음악에 관심이 조금 있어서 큐베이스 5 크랙판(…)을 막 다운받아서 만져보고 Fl studio라든가 Noteworthy Composer<del>어 잠깐, 이건 DAW가 아닌데</del> 같은 음악 관련 프로그램을 가끔 사용해봤던 것이 전부였다.</p><p>그러다가 지난 해 작곡이라는 것을 해보려고 LMMS라는 프로그램으로 음악 지식 없이 대충 1~2분짜리 음악<del>쓰레기</del>을 만든 게 내가 처음으로 작곡한 곡이었다.</p><p><img src="/files/2021/jan/12/5dc5284fc2fefd55c0fb7f0174d1e5ad.jpeg" alt="5e328aff-3d0e-403c-b1a2-be460f41a7f1.jpeg" title="나의 Soundcloud 계정"></p><p>한 네 곡 정도 올려놨는데 처음에 만든 두 곡은 LMMS로 만들고 나중에 올린 두 곡은 Reaper와 Splice 신공으로 만들었다.</p><p>음악이 정말 거지같고 만족스럽지 않아 요즘은 작곡을 잠깐 쉬고 있다.</p><p>하지만 이 포럼을 만든 이상 빠른 시일 내에 다시 작업을 재개해봐야겠다.</p><p>이런 쓰레기 같은 글도 읽어주어서 감사하다.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;나는 2016년 즈음에 사운드클라우드를 가입했었다.&lt;/p&gt;
+&lt;p&gt;사실 그 전에도 계정이 있었던 것 같은데 찾지 못했다. (2012년 쯤 애용했었음)&lt;/p&gt;
+&lt;p&gt;내가 작곡을 한다는 생각을 안 해서 그냥 만들어만 놓고 오랫동안 방치했었다.&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
